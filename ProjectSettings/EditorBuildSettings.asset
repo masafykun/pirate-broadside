@@ -4,6 +4,9 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/PirateBroadside/Scenes/Main.unity
+    guid: 4647e0754624940c69cd72f9ad674721
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0
